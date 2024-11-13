@@ -1,0 +1,8 @@
+﻿  GenerateInputHelper.cpp
+C:\TIH\Perso\Godot_v4.3-stable_mono_win64\Project\GenerateInputHelper\GenerateInputHelper\GenerateInputHelper.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  1 of 275 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GenerateInputHelper.vcxproj -> C:\TIH\Perso\Godot_v4.3-stable_mono_win64\Project\GenerateInputHelper\x64\Release\GenerateInputHelper.exe

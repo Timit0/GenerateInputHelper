@@ -1,0 +1,9 @@
+﻿  GenerateInputHelper.cpp
+C:\TIH\Perso\Godot_v4.3-stable_mono_win64\Project\GenerateInputHelper\GenerateInputHelper\GenerateInputHelper.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Tscn.cpp
+C:\TIH\Perso\Godot_v4.3-stable_mono_win64\Project\GenerateInputHelper\GenerateInputHelper\Tscn.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 275 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GenerateInputHelper.vcxproj -> C:\TIH\Perso\Godot_v4.3-stable_mono_win64\Project\GenerateInputHelper\Release\GenerateInputHelper.exe
