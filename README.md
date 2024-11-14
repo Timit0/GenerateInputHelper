@@ -39,7 +39,7 @@ public static class InputHelper
 }
 ```
 
-## Utilities
+## Use cases
 
 - If I have ``Input.IsActionJustPressed("jump")`` it's dangerous. If I change the action name in my godot project I need to modify all of action using ``jump``.
 - If I have ``Input.IsActionJustPressed(InputHelper.jump)`` it's a way more flexible. If I want to change the action name, I just need to change the name once.
